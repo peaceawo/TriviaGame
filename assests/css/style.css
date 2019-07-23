@@ -34,3 +34,10 @@ h3{
 h2 {
     text-align: left;
   }
+button{
+    padding: 20px;
+    cursor: pointer;
+    font-size: 25px;
+    border-radius: 25px;
+
+}
